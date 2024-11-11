@@ -23,21 +23,14 @@ This project is a Flask-based API that handles various request and response func
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/PrathmeshChurhe/Flask_API
     ```
 
-2. **Install Dependencies**:
-    Install the required Python packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Set Up Environment Variables**:
+2. **Set Up Environment Variables**:
     - `project_url`: Set this to the base URL of the project, if applicable.
     - `api_password`: Add an API password for secure access, if needed.
 
-4. **Run the Server**:
+3. **Run the Server**:
     Start the Flask development server:
     ```bash
     python app.py
